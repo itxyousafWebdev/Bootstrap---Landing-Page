@@ -1,0 +1,203 @@
+body{
+  font-weight: bold;
+  font-family: 'Rubik', sans-serif;
+
+}
+
+#title{
+  background-color: #ff4c68;
+  padding-top: 60px;
+}
+
+h1{
+  font-family: "Montserrat";
+  font-size: 3.5em;
+  line-height: 1.5;
+  color: white;
+  margin-bottom: 50px;
+}
+
+h2{
+  font-family: "Montserrat";
+  line-height: 1.5;
+
+}
+
+h3{
+  font-family: "Montserrat"
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.testimonial-text{
+  font-family: "Montserrat";
+  color: white;
+  line-height: 1.5;
+  font-size: 3rem;
+  margin: 50px auto;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.rotateMobile{
+  transform:rotate(25deg);
+  width: 70%;
+  padding-left: 50px;
+  position: absolute;
+  top: auto;
+}
+
+.phone-text{
+  padding: 100px 0 55px 0;
+}
+
+.mybtn{
+  margin: 5px;
+}
+
+.phone{
+  padding-top: 100px;
+}
+
+.link{
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.navbar{
+  padding-left: 0;
+  background-color: #ff4c68;
+  position: fixed;
+  width: 100%;
+  padding: 10px 50px;
+  z-index: 2;
+  /* position: fixed;
+  background-color: gray;
+  width: 100%; */
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#features{
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  padding: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+
+}
+.features-box{
+  width:300px;
+  margin: auto;
+  padding: 50px;
+}
+
+.vv{
+  color: #ef8172;
+  font-size: 70px;
+  margin: 16px;
+}
+
+.vv:hover{
+  color: #ff4c68;
+  font-size: 70px;
+  margin: 16px;
+}
+.sub-service{
+  font-weight:600;
+  font-size: 1.5rem;
+}
+
+#testimonials{
+  background-color:  #ef8172;
+  padding: 0 0 50px 0;
+  text-align:center;
+
+
+}
+
+.dog{
+  width: 11%;
+  border-radius: 100%;
+}
+
+#press{
+  background-color: #ef8172;
+  padding: 0px 150px 50px 150px;
+  text-align: center;
+}
+
+.press-pic{
+  width: 150px;
+  margin: 20px;
+}
+
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+
+.card-section{
+  padding: 50px 20px;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.last-h3{
+  width: 70%;
+  margin: 30px auto;
+
+}
+
+#footer{
+  height: 200px;
+  background-color: white;
+  text-align: center;
+}
+
+.footer-icon{
+  padding: 20px;
+  display: inline-block;
+  margin-top: 50px;
+
+}
+
+.copywrite-text{
+  width: 300px;
+  margin: auto;
+}
+
+
+@media (max-width:991px){
+  .rotateMobile{
+    transform:rotate(0deg);
+    width: 70%;
+    padding: 50px;
+    position: static;
+  }
+
+  #title{
+    text-align: center;
+  }
+
+  .phone{
+    padding: 0;
+  }
+
+  .phone-text{
+    padding: 55px 0 55px 0;
+  }
+}
