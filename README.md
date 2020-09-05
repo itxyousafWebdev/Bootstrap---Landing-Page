@@ -1,8 +1,8 @@
 ## **Bootstrap---Landing-Page**
 
-For Purview : [https://itxyousafwebdev.github.io/Bootstrap---Landing-Page/#footer](https://itxyousafwebdev.github.io/Bootstrap---Landing-Page/#footer)
+Preview : [Bootstrap---Landing-Page](https://itxyousafwebdev.github.io/Bootstrap---Landing-Page/)
 
-![](RackMultipart20200905-4-1e5zu4x_html_ab2692ae8a58297.png)
+ <a href="https://itxyousafwebdev.github.io/Bootstrap---Landing-Page/"> <img src="images/screenShot.PNG"> </a>
 
 ### **Basic Usage**
 After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the index.html file in your web browser.
@@ -13,9 +13,9 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 [https://startbootstrap.com](https://startbootstrap.com/)
 [https://twitter.com/SBootstrap](https://twitter.com/SBootstrap)
 
-Start Bootstrap was created by and is maintained by David Miller
+Start Bootstrap was created by and is maintained by David Miller.
 [http://davidmiller.io](http://davidmiller.io/)
 [https://twitter.com/davidmillerskt](https://twitter.com/davidmillerskt)
 [https://github.com/davidtmiller](https://github.com/davidtmiller)
 
-Start Bootstrap is based on the Bootstrap framework created by Mark Otto and Jacob Thornton
+Start Bootstrap is based on the Bootstrap framework created by Mark Otto and Jacob Thornton.
